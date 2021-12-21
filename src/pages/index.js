@@ -8,7 +8,7 @@ import pic04 from '../assets/images/pic04.jpg'
 import pic05 from '../assets/images/pic05.jpg'
 import pic06 from '../assets/images/pic06.jpg'
 import Banner from '../components/Banner'
-import Layout from '../components/layout'
+import Layout from '../components/Layout'
 
 class HomeIndex extends React.Component {
   render() {
@@ -33,7 +33,7 @@ class HomeIndex extends React.Component {
                 className="link primary"
               >
                 <header className="major">
-                  <h3>A b o u t</h3>
+                  <h1>A b o u t</h1>
                   <p>About the Project</p>
                 </header>
               </Link>
@@ -45,7 +45,7 @@ class HomeIndex extends React.Component {
                 className="link primary"
               >
                 <header className="major">
-                  <h3>M i s s i o n</h3>
+                  <h1>M i s s i o n</h1>
                   <p>Goals and Vision</p>
                 </header>
               </Link>
@@ -57,8 +57,8 @@ class HomeIndex extends React.Component {
                 className="link primary"
               >
                 <header className="major">
-                  <h3>C h a r t e r</h3>
-                  <p>Lorem etiam nullam</p>
+                  <h1>O p e n &ensp;C h a r t e r</h1>
+                  <p>Project Charter Documentation</p>
                 </header>
               </Link>
             </article>
@@ -69,8 +69,8 @@ class HomeIndex extends React.Component {
                 className="link primary"
               >
                 <header className="major">
-                  <h3>T a k e&ensp;P a r t</h3>
-                  <p>Nisl sed aliquam</p>
+                  <h1>R o a d m a p</h1>
+                  <p>Where we are / What to expect</p>
                 </header>
               </Link>
             </article>
@@ -81,8 +81,9 @@ class HomeIndex extends React.Component {
                 className="link primary"
               >
                 <header className="major">
-                  <h3>C o n t a c t</h3>
-                  <p>Ipsum dolor sit amet</p>
+                  <h1>C o n t a c t</h1>
+                  <p>Reach out with any thoughts,<br />
+                  inquiries, and/or suggestions.</p>
                 </header>
               </Link>
             </article>
@@ -93,8 +94,8 @@ class HomeIndex extends React.Component {
                 className="link primary"
               >
                 <header className="major">
-                  <h3>R o a d m a p</h3>
-                  <p>Feugiat amet tempus</p>
+                  <h1>T a k e &ensp;P a r t</h1>
+                  <p>How you can help</p>
                 </header>
               </Link>
             </article>
