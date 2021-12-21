@@ -82,8 +82,7 @@ class HomeIndex extends React.Component {
               >
                 <header className="major">
                   <h2>Contact</h2>
-                  <p>Reach out with any thoughts,<br />
-                  inquiries, and/or suggestions.</p>
+                  <p>We encourage you to reach out.</p>
                 </header>
               </Link>
             </article>

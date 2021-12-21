@@ -10,7 +10,7 @@ const Banner = props => (
         <p>
           An open source project working to crowdsource and democratize data 
           <br />
-          exploration on the monopolies of influence around us.
+          exploration of the monopolies of influence around us.
         </p>
         <ul className="actions">
           <li>
