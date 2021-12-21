@@ -33,7 +33,7 @@ class HomeIndex extends React.Component {
                 className="link primary"
               >
                 <header className="major">
-                  <h1>A b o u t</h1>
+                  <h2>About</h2>
                   <p>About the Project</p>
                 </header>
               </Link>
@@ -45,7 +45,7 @@ class HomeIndex extends React.Component {
                 className="link primary"
               >
                 <header className="major">
-                  <h1>M i s s i o n</h1>
+                  <h2>Mission</h2>
                   <p>Goals and Vision</p>
                 </header>
               </Link>
@@ -57,7 +57,7 @@ class HomeIndex extends React.Component {
                 className="link primary"
               >
                 <header className="major">
-                  <h1>O p e n &ensp;C h a r t e r</h1>
+                  <h2>Open Charter</h2>
                   <p>Project Charter Documentation</p>
                 </header>
               </Link>
@@ -69,7 +69,7 @@ class HomeIndex extends React.Component {
                 className="link primary"
               >
                 <header className="major">
-                  <h1>R o a d m a p</h1>
+                  <h2>Roadmap</h2>
                   <p>Where we are / What to expect</p>
                 </header>
               </Link>
@@ -81,7 +81,7 @@ class HomeIndex extends React.Component {
                 className="link primary"
               >
                 <header className="major">
-                  <h1>C o n t a c t</h1>
+                  <h2>Contact</h2>
                   <p>Reach out with any thoughts,<br />
                   inquiries, and/or suggestions.</p>
                 </header>
@@ -94,7 +94,7 @@ class HomeIndex extends React.Component {
                 className="link primary"
               >
                 <header className="major">
-                  <h1>T a k e &ensp;P a r t</h1>
+                  <h2>Take Part</h2>
                   <p>How you can help</p>
                 </header>
               </Link>

@@ -4,7 +4,7 @@ const Banner = props => (
   <section id="banner" className="major">
     <div className="inner">
       <header className="major">
-        <h1 className="logo" style={{textAlign: "center"}}>O P E N | S O C I E T Y</h1>
+        <h1 className="logo" style={{textAlign: "center"}}>O P E N | S O C I E T Y &ensp;Reference Page</h1>
       </header>
       <div className="content">
         <p>
